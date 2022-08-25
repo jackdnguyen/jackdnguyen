@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi there 👋 I'm Jack!
+Hi there 🤓 I'm Jack!
 </h1>
 <h3 align="center">
 Passionate Developer with never-ending thirst for knowledge
