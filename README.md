@@ -1,5 +1,5 @@
-![f193f1cc-65fd-4bd7-8ea9-4e3f287ffd7f_car_7x5](https://user-images.githubusercontent.com/105577199/186583577-fd3f4dd1-0006-4136-94e7-549bcb3d49a8.gif)
-Hi there 👋
+<img src="https://user-images.githubusercontent.com/105577199/186583577-fd3f4dd1-0006-4136-94e7-549bcb3d49a8.gif" height="50">
+\nHi there 👋
 <!--
 **jackdnguyen/jackdnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
