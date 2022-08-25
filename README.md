@@ -4,7 +4,9 @@ Hi there 👋 I'm Jack!
 <h3 align="center">
 Passionate Developer with never-ending thirst for knowledge
 </h3>
-<img src="https://user-images.githubusercontent.com/105577199/186589250-849934d4-3076-46ae-bc41-c75c2469626f.gif" width="650" height="300" align="center">
+<p align="center">
+<img src="https://user-images.githubusercontent.com/105577199/186589250-849934d4-3076-46ae-bc41-c75c2469626f.gif" width="650" height="300">
+</p>
 <!--
 **jackdnguyen/jackdnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
