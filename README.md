@@ -1,5 +1,7 @@
 <p align="center">
   Hi, I'm Jack 👋
+</p>
+<p align="center">
 <img src="https://user-images.githubusercontent.com/105577199/186624378-d09010a3-9c98-4463-a8c1-339a98ab1aa4.gif" width="640" height ="360">
 </p>
 
